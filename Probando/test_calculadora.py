@@ -2,6 +2,7 @@ from unittest import TestCase
 from Calculadora import *
 
 
+#Tests unitarios
 class TestCalculadora(TestCase):
 
     def setUp(self):
